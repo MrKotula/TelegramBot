@@ -6,3 +6,6 @@ target
 .project
 .settings
 logs/*
+.mvnw.cmd
+.mvn
+mvn
