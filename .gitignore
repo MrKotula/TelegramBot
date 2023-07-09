@@ -10,4 +10,4 @@ logs/*
 .mvn/*
 mvnw
 *.app
-
+bin/*
