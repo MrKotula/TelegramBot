@@ -1,4 +1,4 @@
+com\ua\mytestbot\SpringTestBot\config\BotConfig.class
 com\ua\mytestbot\SpringTestBot\config\BotInitializer.class
 com\ua\mytestbot\SpringTestBot\service\TelegramBot.class
-com\ua\mytestbot\SpringTestBot\config\BotConfig.class
 com\ua\mytestbot\SpringTestBot\SpringTestBotApplication.class
