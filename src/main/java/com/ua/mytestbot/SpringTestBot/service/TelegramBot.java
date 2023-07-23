@@ -161,7 +161,6 @@ public class TelegramBot extends TelegramLongPollingBot {
 
     private void startCommandReceived(long chatId, String name) {
         String answer = EmojiParser.parseToUnicode("Hello, " + name + " How can i help you?" + " :relaxed:");
-        //String answer = "Hello, " + name + " How can i help you?";
         log.info("Replied to user " + name);
         sendMessage(chatId, answer);
     }
